@@ -24,7 +24,8 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   The difference in electroporation patterns produced by a train of single pulses
-  and a train of paired pulses (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000633/draft
+  and a train of paired pulses (Version 0.231013.2226) [Data set]. DANDI archive.
+  https://doi.org/10.48324/dandi.000633/0.231013.2226
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -63,14 +64,15 @@ dateCreated: '2023-09-14T19:09:10.314783+00:00'
 datePublished: '2023-10-13T22:26:28.557920+00:00'
 description: The difference in electroporation patterns produced by a train of single
   pulses and a train of paired pulses. Supported by NIH 1R21EY034258
+doi: 10.48324/dandi.000633/0.231013.2226
 ethicsApproval: []
-id: DANDI:000633/draft
+id: DANDI:000633/0.231013.2226
 identifier: DANDI:000633
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000633/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000633/0.231013.2226/assets.yaml
 name: The difference in electroporation patterns produced by a train of single pulses
   and a train of paired pulses
 protocol: []
@@ -96,8 +98,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000633/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000633/0.231013.2226
+version: 0.231013.2226
 wasGeneratedBy:
 - identifier: NIH 1R21EY034258
   name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
