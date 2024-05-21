@@ -5,7 +5,7 @@
 "blob":
 "8884dbd4-817d-498d-b489-c44c3be7e619",
 "created":
-"2023-10-13T22:24:27.796388+00:00",
+"2023-10-13T22:24:27.796388Z",
 "metadata":
 {
 "@context":
@@ -172,7 +172,7 @@
 ]
 },
 "modified":
-"2023-10-13T22:26:29.079512+00:00",
+"2023-10-13T22:26:29.079512Z",
 "path":
 "sub-Paired-pulse-trains/sub-Paired-pulse-trains_ses-Paired-pulse-trains_image.nwb",
 "size":
@@ -184,7 +184,7 @@
 "blob":
 "c1cba55d-bf22-441f-9866-b527fa6ebc05",
 "created":
-"2023-10-13T22:24:30.173767+00:00",
+"2023-10-13T22:24:30.173767Z",
 "metadata":
 {
 "@context":
@@ -351,7 +351,7 @@
 ]
 },
 "modified":
-"2023-10-13T22:26:29.090238+00:00",
+"2023-10-13T22:26:29.090238Z",
 "path":
 "sub-Single-pulse-trains/sub-Single-pulse-trains_ses-Single-pulse-trains_image.nwb",
 "size":
